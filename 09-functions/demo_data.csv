@@ -1,0 +1,85 @@
+,fd_unq_id,source_reporting_unit_name,fire_name,month,month_num,cause,fire_size,fire_size_class,state,county,year
+21,1333522,Sonoma-Lake Napa Unit,BERRYESSA                ,June,6,Equipment Use,5731.0,G,CA,,2000
+31,315556,Bakersfield District,SHELL,July,7,Equipment Use,6762.0,G,CA,Kern,2000
+45,1272339,Cleveland National Forest,PECHANGA,July,7,Arson,10380.2,G,CA,,2000
+47,365024,Death Valley National Park,HAPPY,July,7,Debris Burning,5861.0,G,CA,,2000
+48,135309,Sequoia National Forest,MANTER,July,7,Miscellaneous,75000.0,G,CA,,2000
+55,131064,Los Padres National Forest,PLASKETT 2,July,7,Miscellaneous,5856.0,G,CA,,2000
+61,315702,Bakersfield District,HUNTER,August,8,Miscellaneous,8600.0,G,CA,Mariposa,2000
+73,135995,Plumas National Forest,STORRIE,August,8,Railroad,55261.0,G,CA,,2000
+85,324972,Northern California District,TGU WEIN,September,9,Debris Burning,8284.0,G,CA,Tehama,2000
+12,247713,Joshua Tree National Monument,JUNIPER,May,5,Lightning,14000.0,G,CA,,1999
+52,119546,Los Padres National Forest,SPANISH,July,7,Equipment Use,14537.0,G,CA,,1999
+67,221962,Northern California District,BTU DOE 2,August,8,Lightning,10857.0,G,CA,Butte,1999
+77,221983,Northern California District,WILLOW,August,8,Miscellaneous,7700.0,G,CA,Lassen,1999
+86,221958,Northern California District,INKS,August,8,Lightning,5021.0,G,CA,Tehama,1999
+91,116604,Modoc National Forest,PINE,August,8,Lightning,30568.0,G,CA,,1999
+99,1350117,Butte Unit,MUSTY #3                 ,August,8,Lightning,13652.0,G,CA,,1999
+105,118197,Angeles National Forest,BRIDGE,August,8,Arson,7200.0,G,CA,,1999
+108,118742,Shasta-Trinity National Forest,SUGAR,August,8,Lightning,5440.0,G,CA,,1999
+110,118745,Shasta-Trinity National Forest,JACKASS,August,8,Lightning,5760.0,G,CA,,1999
+114,118777,Shasta-Trinity National Forest,BOHEMOTASH,August,8,Lightning,14090.0,G,CA,,1999
+118,118826,Shasta-Trinity National Forest,MEGRAM,August,8,Lightning,124898.0,G,CA,,1999
+127,120389,Lassen National Forest,DEHAVEN,August,8,Equipment Use,17000.0,G,CA,,1999
+134,121702,Plumas National Forest,BUCKS,August,8,Lightning,34175.0,G,CA,,1999
+144,249019,Yosemite National Park,N PARKCPLX,August,8,Lightning,11705.4,G,CA,,1999
+149,123453,San Bernardino National Forest,WILLOW,August,8,Miscellaneous,65000.0,G,CA,,1999
+153,1369163,Tehama-Glenn Unit,SPRING                   ,August,8,Lightning,6140.0,G,CA,,1999
+167,118481,Cleveland National Forest,LA_JOLLA,September,9,Debris Burning,6800.0,G,CA,,1999
+169,119526,Los Padres National Forest,TASSAJARA,September,9,Lightning,23761.0,G,CA,,1999
+171,119532,Los Padres National Forest,HARE,September,9,Lightning,49551.0,G,CA,,1999
+172,119535,Los Padres National Forest,FIVE,September,9,Lightning,12960.0,G,CA,,1999
+186,122767,Lassen National Forest,GUN 2,September,9,Miscellaneous,60390.0,G,CA,,1999
+208,118820,Shasta-Trinity National Forest,JONES,October,10,Miscellaneous,26202.0,G,CA,,1999
+210,222137,Northern California District,LNU SIXTEE,October,10,Arson,40000.0,G,CA,,1999
+211,122647,Tahoe National Forest,PENDOLA,October,10,Miscellaneous,11725.0,G,CA,,1999
+29,217477,Bakersfield District,BRECK,July,7,Arson,7000.0,G,CA,,1998
+52,114095,Modoc National Forest,REFUGE,August,8,Equipment Use,9700.0,G,CA,Madera,1998
+68,1391772,CDF - Riverside Unit,STATE (WEIRICK FIRE)     ,August,8,Lightning,5000.0,G,CA,,1998
+78,220487,California Desert District,JUNIPER,August,8,Lightning,6000.0,G,CA,,1998
+85,221441,Northern California District,LNU MIDDLE,August,8,Arson,6600.0,G,CA,,1998
+116,217887,Bakersfield District,PIRU,October,10,Equipment Use,12613.0,G,CA,,1998
+123,114278,San Bernardino National Forest,EDNA,October,10,Miscellaneous,28164.0,G,CA,,1998
+13,216977,Bakersfield District,46,June,6,Powerline,7495.0,G,CA,,1995
+27,81078,Cleveland National Forest,BUTTERFIELD,June,6,Arson,7083.0,G,CA,,1995
+28,81201,Inyo National Forest,POLE,June,6,Miscellaneous,5550.0,G,CA,,1995
+65,247679,Joshua Tree National Monument,COVINGTON,July,7,Lightning,5521.0,G,CA,,1995
+87,1389310,CDF - Riverside Unit,STATE                    ,July,7,Equipment Use,5000.0,G,CA,,1995
+91,217049,Bakersfield District,MIDWAY,August,8,Arson,8845.0,G,CA,,1995
+95,219427,California Desert District,SYCAMORE,August,8,Smoking,9410.0,G,CA,,1995
+106,81097,Cleveland National Forest,EL MONTE,August,8,Smoking,8100.0,G,CA,,1995
+113,81806,San Bernardino National Forest,VERBENIA,August,8,Equipment Use,23455.0,G,CA,,1995
+161,248381,Point Reyes National Seashore,VISION,October,10,Campfire,12354.0,G,CA,,1995
+4,217087,Bakersfield District,SKYLINE,April,4,Powerline,19839.0,G,CA,,1996
+5,217088,Bakersfield District,PANOCHE II,April,4,Powerline,18340.0,G,CA,,1996
+8,96289,Los Padres National Forest,GRAND,April,4,Miscellaneous,10925.0,G,CA,,1996
+72,217121,Bakersfield District,MERCY,June,6,Equipment Use,16820.0,G,CA,,1996
+99,96317,San Bernardino National Forest,BEE #2,June,6,Miscellaneous,9620.0,G,CA,,1996
+146,219797,California Desert District,WHITEOAK,July,7,Miscellaneous,7150.0,G,CA,,1996
+196,217189,Bakersfield District,KEYSTONE,August,8,Lightning,5600.0,G,CA,,1996
+197,217194,Bakersfield District,ROGGE,August,8,Lightning,22080.0,G,CA,,1996
+207,1323495,Tuolumne-Calaveras Unit,LIGHTNING # 29           ,August,8,Lightning,7000.0,G,CA,,1996
+220,219834,California Desert District,WOLFSKILL,August,8,Debris Burning,12395.0,G,CA,,1996
+228,95156,Stanislaus National Forest,ACKERSON,August,8,Lightning,12371.0,G,CA,,1996
+234,95746,Mendocino National Forest,FORK,August,8,Arson,83323.0,G,CA,,1996
+239,95984,Sierra National Forest,TRIMMER 2,August,8,Arson,5607.0,G,CA,,1996
+243,87838,Modoc National Forest,DAMON/LONG,August,8,Lightning,23398.0,G,CA,,1996
+247,96490,Angeles National Forest,MARPLE,August,8,Arson,22000.0,G,CA,,1996
+249,96608,Los Padres National Forest,HIGHWAY 58,August,8,Equipment Use,106668.0,G,CA,,1996
+262,1346021,Amador-El Dorado Unit,SCOTT                    ,August,8,Arson,9820.0,G,CA,,1996
+316,96628,Los Padres National Forest,WILD,October,10,Arson,25620.0,G,CA,,1996
+324,248486,Santa Monica Mountains National Recreation Area,CALABASAS,October,10,Powerline,13190.0,G,CA,,1996
+326,1379279,CDF - Monte Vista Unit,HARMONY                  ,October,10,Equipment Use,5000.0,G,CA,,1996
+328,371230,San Diego National Wildlife Refuge,OTAY322,October,10,Campfire,14720.0,G,CA,,1996
+14,217253,Bakersfield District,LOKERN,May,5,Powerline,47000.0,G,CA,,1997
+41,217269,Bakersfield District,MIDWAY CPX,June,6,Arson,7485.0,G,CA,,1997
+69,104757,Angeles National Forest,CANYON 2,July,7,Equipment Use,5200.0,G,CA,,1997
+84,217297,Bakersfield District,HOPPER,August,8,Arson,24800.0,G,CA,,1997
+86,217309,Bakersfield District,CHOCKTAW,August,8,Arson,10416.0,G,CA,,1997
+91,101013,Los Padres National Forest,LOGAN,August,8,Miscellaneous,49490.0,G,CA,,1997
+98,103572,San Bernardino National Forest,PAUBA,August,8,Campfire,7231.0,G,CA,,1997
+99,103776,Sequoia National Forest,JACKS,August,8,Lightning,5693.0,G,CA,,1997
+104,104758,Angeles National Forest,NARROWS,August,8,Debris Burning,18186.0,G,CA,,1997
+116,217328,Bakersfield District,WILLIAMS,September,9,Equipment Use,5745.0,G,CA,,1997
+138,103568,Cleveland National Forest,BAKER,October,10,Debris Burning,6317.0,G,CA,,1997
+141,1328823,Tulare Unit,FERNANDEZ                ,October,10,Miscellaneous,43700.0,G,CA,,1997
